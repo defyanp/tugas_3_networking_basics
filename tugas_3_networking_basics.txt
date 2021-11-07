@@ -1,0 +1,16 @@
+Tugas 3
+
+1.Unicast adalah ?
+  Metode pengiriman data/paket yang dikirimkan dari suatu komputer atau server ke satu alamat tujuan.
+
+2.Multicast adalah ?
+  Metode pengiriman data/paket yang dikirimkan dari suatu komputer atau server ke beberapa alamat tujuan.
+
+3.White-orange, Orange, White-green, Blue, White-blue, Green, White-brown, Brown merupakan tipe penyusunan pin kabel RJ-45 berjenis ?
+  RJ45 jenis T-568B.
+
+4.Nama/jenis kabel berikut adalah :
+  Jenis copper termination tipe RJ-11.
+
+5.Nama/jenis kabel berikut adalah :
+  Jenis wireless antenna tipe RP-TNC.
